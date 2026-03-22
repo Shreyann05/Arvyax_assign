@@ -1,0 +1,11 @@
+id,journal_text,ambience_type,duration_min,sleep_hours,energy_level,stress_level,time_of_day,previous_day_mood,face_emotion_hint,reflection_quality
+1,I feel scattered today even after the ocean session. Too many things on my mind.,ocean,20,5,3,4,morning,neutral,tense_face,vague
+2,The forest sounds helped me breathe and I feel a lot more settled and at peace.,forest,15,7.5,4,2,morning,calm,calm_face,clear
+3,ok,rain,10,6,3,3,afternoon,neutral,neutral_face,vague
+4,I sat through the mountain session but everything still feels too heavy to move. I'm drowning in tasks.,mountain,12,4,1,5,evening,overwhelmed,none,conflicted
+5,I came in distracted but left with a clear head. Ready to tackle the day.,cafe,25,7,4,1,early_morning,mixed,happy_face,clear
+6,The rain was soothing but I still feel pulled in different directions. Not sure if I'm calm or restless.,rain,20,6,3,3,afternoon,restless,neutral_face,conflicted
+7,fine,forest,8,7,3,2,night,calm,calm_face,clear
+8,I feel completely overloaded. The cafe sounds couldn't stop the noise in my head.,cafe,8,4.5,2,5,evening,overwhelmed,tense_face,clear
+9,Nothing really shifted but I feel okay. Just steady.,ocean,15,6.5,3,2,morning,neutral,neutral_face,clear
+10,The mountain session gave me exactly what I needed. Sharp and ready to work.,mountain,20,8,5,1,morning,focused,happy_face,clear

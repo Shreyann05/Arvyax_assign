@@ -1,0 +1,100 @@
+id,journal_text,ambience_type,duration_min,sleep_hours,energy_level,stress_level,time_of_day,previous_day_mood,face_emotion_hint,reflection_quality,emotional_state,intensity
+1,The ocean ambience helped me stop drifting and concentrate on my next steps. My to-do list feels less chaotic.,ocean,12,6.5,4,2,afternoon,mixed,calm_face,clear,focused,3
+2,I tried to relax during the forest ambience yet my thoughts kept racing. I still feel a low buzz in my body.,forest,35,6,2,4,evening,calm,tired_face,vague,restless,3
+3,The forest session slowed my thoughts and I feel more settled now.,forest,3,,2,1,night,overwhelmed,happy_face,clear,calm,3
+4,the mountain ambience was pleasant though i can't say it shifted my mood much. idk.,mountain,25,7,4,4,night,focused,calm_face,vague,neutral,1
+5,The rain session gave me a pause but the pressure is still sitting hard on me. I'm carrying too much in my head.,rain,25,5,3,5,afternoon,,tense_face,clear,overwhelmed,5
+6,after the forest track i feel peaceful and less pulled in every direction. my shoulders feel less tense.,forest,12,8,3,2,morning,mixed,calm_face,vague,calm,3
+7,Nothing strong came up during the rain session; I feel fairly normal. At least I paused for a moment.,rain,20,6.5,2,4,early_morning,calm,neutral_face,conflicted,neutral,1
+8,even with the mountain session my mind kept jumping between tasks.,mountain,12,6,3,4,morning,neutral,tense_face,clear,restless,4
+9,I couldn't really settle into the cafe track; I kept thinking of everything at once. I still feel a low buzz in my body.,cafe,8,5.5,3,4,early_morning,mixed,neutral_face,vague,restless,4
+10,The mountain ambience helped me stop drifting and concentrate on my next steps I should begin with the hardest task first,mountain,15,7,4,2,morning,overwhelmed,calm_face,conflicted,focused,3
+11,The rain sounds were nice but I still feel unsettled and fidgety. Part of me wants to do everything at once.,rain,12,6.5,3,3,afternoon,mixed,none,conflicted,restless,4
+12,I feel mentally clear after the mountain session and ready to tackle one thing at a time.,mountain,12,5.5,3,2,morning,restless,neutral_face,clear,focused,4
+13,The forest session made me calmer but part of me still feels uneasy. Part of me wants rest part of me wants action.,forest,20,5,2,2,afternoon,neutral,none,conflicted,mixed,2
+14,The cafe session helped a little though I still feel pulled in too many directions. Part of me wants to do everything at once.,cafe,12,6,3,5,early_morning,mixed,none,clear,restless,4
+15,I feel lighter after the mountain sounds like my mind finally softened. I think I can start gently today.,mountain,8,8,3,3,night,overwhelmed,calm_face,clear,calm,2
+16,I came in distracted but I left the forest session with a sharper mind. It feels easier to make a plan now.,forest,15,,3,1,early_morning,neutral,neutral_face,vague,focused,2
+17,The forest session made me calmer but part of me still feels uneasy. I feel better and not better at the same time. I can't tell if I need rest or momentum.,forest,35,6,2,3,night,,calm_face,vague,mixed,3
+18,The mountain session gave me a pause but the pressure is still sitting hard on me. I'm carrying too much in my head.,mountain,15,5.5,3,5,early_morning,overwhelmed,tired_face,vague,overwhelmed,4
+19,I feel mentally clear after the mountain session and ready to tackle one thing at a time. I should begin with the hardest task first.,mountain,8,7.5,3,2,night,focused,neutral_face,clear,focused,4
+20,I started scattered but the ocean session helped me lock in on what matters. My to-do list feels less chaotic. idk.,ocean,15,7,4,2,afternoon,calm,tense_face,clear,focused,2
+21,The mountain session made me calmer but part of me still feels uneasy. Part of me wants rest part of me wants action.,mountain,15,5,2,2,afternoon,calm,happy_face,clear,mixed,3
+22,The cafe session wasn't enough today; everything still feels heavy and too much. It's hard to know where to begin.,cafe,12,,2,4,afternoon,focused,tired_face,conflicted,overwhelmed,4
+23,even after the forest track i feel exhausted and emotionally overloaded i feel emotionally tired i almost wanted to stop midway,forest,18,5.5,2,4,morning,focused,tense_face,vague,overwhelmed,5
+24,I liked the ocean session but my mood is still split between calm and tension. It's like two moods are sitting together. I can't tell if I need rest or momentum. idk.,ocean,20,7,4,4,afternoon,focused,tense_face,clear,mixed,4
+25,Even after the mountain track I feel exhausted and emotionally overloaded. I feel emotionally tired.,mountain,12,3.5,2,5,night,mixed,tense_face,vague,overwhelmed,4
+26,The forest session was okay I don't feel much different just a bit more aware Maybe I need more time to notice a difference,forest,10,7.5,3,3,night,overwhelmed,calm_face,clear,neutral,2
+27,I started scattered but the cafe session helped me lock in on what matters. My to-do list feels less chaotic.,cafe,25,7.5,4,1,night,overwhelmed,neutral_face,clear,focused,4
+28,The cafe ambience helped me breathe slower and let go of some pressure.,cafe,8,6.5,4,1,early_morning,neutral,none,clear,calm,3
+29,The mountain background made it easier to organize my thoughts and work plan.,mountain,25,7.5,5,2,night,restless,happy_face,clear,focused,4
+30,I wasn't expecting much but the rain session made me feel quiet inside My shoulders feel less tense,rain,25,6,4,2,early_morning,focused,neutral_face,clear,calm,2
+31,I wanted the ocean to calm me but today my stress feels bigger than the session. I almost wanted to stop midway.,ocean,18,6,2,5,afternoon,mixed,none,conflicted,overwhelmed,5
+32,I wasn't expecting much but the mountain session made me feel quiet inside. I think I can start gently today.,mountain,10,8,3,2,evening,neutral,calm_face,vague,calm,4
+33,I feel mentally clear after the cafe session and ready to tackle one thing at a time.,cafe,25,7,4,2,morning,calm,neutral_face,clear,focused,2
+34,The ocean session was okay. I don't feel much different just a bit more aware. Nothing really clicked yet.,ocean,25,6,4,4,night,restless,neutral_face,clear,neutral,2
+35,The rain ambience helped me stop drifting and concentrate on my next steps. I should use this window well.,rain,15,,4,1,early_morning,mixed,calm_face,vague,focused,3
+36,The forest session was okay. I don't feel much different just a bit more aware. Nothing really clicked yet.,forest,12,6.5,4,3,afternoon,neutral,none,clear,neutral,2
+37,I feel both comforted and distracted after the cafe ambience. It's like two moods are sitting together. I can't tell if I need rest or momentum.,cafe,25,5,2,5,evening,focused,neutral_face,vague,mixed,4
+38,I wanted the mountain to calm me but today my stress feels bigger than the session. I feel emotionally tired.,mountain,10,5,1,5,early_morning,,none,conflicted,overwhelmed,5
+39,I feel lighter after the cafe sounds like my mind finally softened. My shoulders feel less tense.,cafe,20,7,4,1,evening,focused,calm_face,clear,calm,2
+40,The rain track was fine. I feel steady not especially better or worse.,rain,20,7.5,3,2,afternoon,overwhelmed,neutral_face,clear,neutral,1
+41,The rain ambience was pleasant though I can't say it shifted my mood much. Maybe I need more time to notice a difference.,rain,8,7.5,3,2,morning,overwhelmed,calm_face,conflicted,neutral,2
+42,I feel both comforted and distracted after the mountain ambience There is relief but also some lingering pressure,mountain,15,5.5,3,3,early_morning,restless,neutral_face,conflicted,mixed,4
+43,The mountain ambience helped me stop drifting and concentrate on my next steps. I should begin with the hardest task first.,mountain,8,7,3,2,evening,calm,none,vague,focused,2
+44,I tried to relax during the mountain ambience yet my thoughts kept racing. I keep wanting to switch tasks.,mountain,18,4.5,4,5,early_morning,calm,neutral_face,conflicted,restless,3
+45,The cafe sounds were nice but I still feel unsettled and fidgety. I keep wanting to switch tasks.,cafe,10,5,3,4,evening,mixed,happy_face,clear,restless,4
+46,The mountain track helped a little though something still feels off underneath. There is relief but also some lingering pressure.,mountain,20,7,4,2,morning,neutral,none,clear,mixed,2
+47,The cafe session slowed my thoughts and I feel more settled now. I think I can start gently today.,cafe,12,7,2,2,afternoon,focused,happy_face,clear,calm,4
+48,I noticed the ocean sounds but emotionally I still feel mostly the same. Maybe I need more time to notice a difference.,ocean,18,7.5,3,3,morning,neutral,none,clear,neutral,1
+49,i feel lighter after the ocean sounds like my mind finally softened i think i can start gently today,ocean,25,7.5,4,1,morning,mixed,none,clear,calm,4
+50,Even with the cafe session my mind kept jumping between tasks. I still feel a low buzz in my body.,cafe,15,5.5,4,5,evening,focused,tense_face,clear,restless,4
+51,Nothing strong came up during the forest session; I feel fairly normal At least I paused for a moment,forest,3,6.5,3,2,early_morning,mixed,,clear,neutral,2
+52,I liked the ocean session but my mood is still split between calm and tension. Part of me wants rest part of me wants action.,ocean,12,6,3,3,evening,restless,calm_face,conflicted,mixed,4
+53,I feel lighter after the ocean sounds like my mind finally softened. The pace of my breathing changed.,ocean,10,7.5,4,2,morning,,neutral_face,conflicted,calm,4
+54,The ocean session wasn't enough today; everything still feels heavy and too much.,ocean,25,4.5,2,4,night,focused,,vague,overwhelmed,5
+55,I feel lighter after the cafe sounds like my mind finally softened. My shoulders feel less tense.,cafe,15,6,4,2,afternoon,overwhelmed,happy_face,vague,calm,4
+56,After the forest track I feel peaceful and less pulled in every direction.,forest,20,6.5,4,2,afternoon,neutral,calm_face,clear,calm,3
+57,I feel lighter after the rain sounds like my mind finally softened.,rain,20,6,3,2,morning,neutral,none,clear,calm,3
+58,The forest sounds were nice but I still feel unsettled and fidgety.,forest,12,6,3,3,early_morning,overwhelmed,tired_face,clear,restless,5
+59,The mountain ambience helped me stop drifting and concentrate on my next steps.,mountain,8,7,3,3,afternoon,mixed,calm_face,clear,focused,3
+60,The mountain ambience was pleasant though I can't say it shifted my mood much. I can continue the day as usual.,mountain,25,7,3,3,morning,restless,happy_face,clear,neutral,3
+61,Even with the ocean session my mind kept jumping between tasks.,ocean,12,5,3,4,night,neutral,neutral_face,conflicted,restless,3
+62,After the rain sounds I feel better than before but not completely okay.,rain,15,5.5,3,4,early_morning,neutral,none,conflicted,mixed,4
+63,The mountain session wasn't enough today; everything still feels heavy and too much. Even small tasks feel big right now.,mountain,18,4.5,1,5,evening,restless,none,clear,overwhelmed,5
+64,The ocean background made it easier to organize my thoughts and work plan. I can see my priorities more clearly.,ocean,20,,4,1,early_morning,focused,happy_face,conflicted,focused,2
+65,after the mountain sounds i feel better than before but not completely okay. it's like two moods are sitting together.,mountain,20,4.5,3,4,afternoon,,neutral_face,vague,mixed,2
+66,After the mountain track I feel peaceful and less pulled in every direction. My shoulders feel less tense.,mountain,12,8,2,2,early_morning,restless,neutral_face,clear,calm,4
+67,The cafe session helped a little though I still feel pulled in too many directions.,cafe,20,5,4,5,morning,neutral,tense_face,clear,restless,4
+68,The cafe background made it easier to organize my thoughts and work plan.,cafe,18,,3,3,early_morning,neutral,neutral_face,conflicted,focused,4
+69,I sat through the cafe ambience but I still feel flooded by what I need to do. I almost wanted to stop midway.,cafe,3,4.5,2,5,night,restless,tired_face,clear,overwhelmed,5
+70,I feel lighter after the forest sounds like my mind finally softened My shoulders feel less tense,forest,10,7,3,2,afternoon,neutral,neutral_face,clear,calm,3
+71,I sat through the cafe ambience but I still feel flooded by what I need to do. I'm carrying too much in my head.,cafe,8,6,2,4,afternoon,neutral,tense_face,clear,overwhelmed,5
+72,i sat through the mountain ambience but i still feel flooded by what i need to do.,mountain,18,3.5,3,5,night,neutral,tense_face,clear,overwhelmed,4
+73,I noticed the ocean sounds but emotionally I still feel mostly the same At least I paused for a moment,ocean,12,5.5,2,3,morning,calm,neutral_face,clear,neutral,1
+74,Nothing strong came up during the forest session; I feel fairly normal I can continue the day as usual,forest,12,7,3,4,night,restless,neutral_face,clear,neutral,1
+75,I couldn't really settle into the rain track; I kept thinking of everything at once. I keep wanting to switch tasks.,rain,20,4.5,4,3,evening,overwhelmed,tense_face,vague,restless,4
+76,The cafe ambience was pleasant though I can't say it shifted my mood much. At least I paused for a moment.,cafe,30,6.5,4,3,night,restless,neutral_face,conflicted,neutral,2
+77,After the forest sounds I feel better than before but not completely okay. I can't tell if I need rest or momentum.,forest,18,4.5,2,2,evening,restless,calm_face,clear,mixed,3
+78,After the cafe sounds I feel better than before but not completely okay. I feel better and not better at the same time.,cafe,8,6.5,3,3,evening,calm,tense_face,clear,mixed,3
+79,I feel both comforted and distracted after the mountain ambience. It's like two moods are sitting together.,mountain,12,6,4,2,morning,restless,neutral_face,vague,mixed,3
+80,the cafe ambience helped me stop drifting and concentrate on my next steps. i should begin with the hardest task first.,cafe,25,5.5,5,2,night,mixed,none,conflicted,focused,3
+81,I feel lighter after the mountain sounds like my mind finally softened. I think I can start gently today.,mountain,12,,3,2,morning,focused,neutral_face,clear,calm,3
+82,I came in distracted but I left the rain session with a sharper mind. I should begin with the hardest task first.,rain,25,6,5,2,evening,calm,neutral_face,clear,focused,4
+83,I started scattered but the ocean session helped me lock in on what matters. My to-do list feels less chaotic.,ocean,15,7.5,3,2,afternoon,calm,neutral_face,clear,focused,4
+84,I feel lighter after the ocean sounds like my mind finally softened. The pace of my breathing changed.,ocean,35,8,3,3,early_morning,focused,calm_face,conflicted,calm,3
+85,Even after the forest track I feel exhausted and emotionally overloaded.,forest,8,5.5,2,5,afternoon,neutral,tired_face,clear,overwhelmed,5
+86,The forest session slowed my thoughts and I feel more settled now. My shoulders feel less tense.,forest,10,6.5,4,3,evening,calm,,clear,calm,2
+87,The forest session made me calmer but part of me still feels uneasy There is relief but also some lingering pressure,forest,8,4.5,4,4,night,focused,tense_face,clear,mixed,3
+88,I noticed the rain sounds but emotionally I still feel mostly the same. Nothing really clicked yet. Maybe later I'll understand it more.,rain,20,6,3,3,evening,calm,neutral_face,vague,neutral,1
+89,Even with the mountain session my mind kept jumping between tasks.,mountain,15,6.5,3,4,morning,calm,tense_face,clear,restless,4
+90,I couldn't really settle into the cafe track; I kept thinking of everything at once. Part of me wants to do everything at once.,cafe,8,6.5,2,5,early_morning,overwhelmed,neutral_face,conflicted,restless,4
+91,The cafe track was fine. I feel steady not especially better or worse.,cafe,20,7,3,3,evening,neutral,neutral_face,clear,neutral,1
+92,The forest track was fine I feel steady not especially better or worse At least I paused for a moment Maybe later I'll understand it more,forest,15,5.5,2,3,morning,overwhelmed,neutral_face,vague,neutral,1
+93,Even with the cafe session my mind kept jumping between tasks. Part of me wants to do everything at once.,cafe,10,5,3,5,early_morning,restless,tired_face,conflicted,restless,4
+94,I tried to relax during the rain ambience yet my thoughts kept racing. I keep wanting to switch tasks.,rain,20,6,3,4,early_morning,overwhelmed,none,conflicted,restless,4
+95,I noticed the rain sounds but emotionally I still feel mostly the same. idk.,rain,30,6.5,3,3,night,overwhelmed,neutral_face,conflicted,neutral,2
+96,I couldn't really settle into the forest track; I kept thinking of everything at once. I keep wanting to switch tasks.,forest,35,6,3,3,afternoon,restless,neutral_face,clear,restless,4
+97,The mountain session made me calmer but part of me still feels uneasy. I feel better and not better at the same time.,mountain,15,6,3,3,afternoon,neutral,neutral_face,clear,mixed,2
+98,The ocean session helped a little though I still feel pulled in too many directions. I still feel a low buzz in my body.,ocean,20,4.5,2,5,afternoon,mixed,neutral_face,clear,restless,4
+99,I feel mentally clear after the rain session and ready to tackle one thing at a time. I can see my priorities more clearly. I should use this window well.,rain,18,6,4,1,evening,overwhelmed,neutral_face,clear,focused,2

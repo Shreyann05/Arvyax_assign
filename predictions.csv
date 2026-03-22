@@ -1,0 +1,121 @@
+id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,supportive_message
+10001,focused,1,0.495,0,deep_work,tomorrow_morning,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10002,restless,1,0.334,1,journaling,later_today,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10003,focused,5,0.317,1,rest,tonight,You seem focused. Consider doing some rest when you feel ready.
+10004,calm,2,0.285,1,light_planning,later_today,You seem settled. Even a quick 10-minute plan for the day can make things feel much more manageable.
+10005,restless,5,0.266,1,rest,now,You seem restless. Consider doing some rest when you feel ready.
+10006,mixed,5,0.467,0,pause,within_15_min,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10007,focused,2,0.332,1,deep_work,tomorrow_morning,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10008,overwhelmed,4,0.277,1,box_breathing,now,"You're carrying a lot right now. Let's pause everything and try some box breathing — four counts in, hold, out, hold. Just that, right now."
+10009,restless,5,0.472,1,movement,now,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10010,overwhelmed,1,0.456,0,grounding,tomorrow_morning,"Things feel heavy, but you're here. Try grounding: name 5 things you can see around you. Bring yourself back to this moment."
+10011,neutral,4,0.331,1,rest,within_15_min,Nothing urgent is pulling at you. This is a good moment to simply rest — guilt-free.
+10012,focused,5,0.24,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10013,restless,3,0.275,1,movement,later_today,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10014,focused,3,0.243,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10015,restless,3,0.301,1,movement,within_15_min,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10016,neutral,1,0.41,1,light_planning,tonight,You feel steady. Use this quiet energy to set a gentle intention for the rest of your day.
+10017,mixed,4,0.624,1,pause,within_15_min,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10018,mixed,5,0.905,0,journaling,tonight,It's okay to feel more than one thing at once. Try journaling to untangle what's going on underneath.
+10019,focused,4,0.39,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10020,focused,1,0.252,1,deep_work,tonight,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10021,restless,3,0.339,1,rest,tonight,You seem restless. Consider doing some rest when you feel ready.
+10022,calm,5,0.466,0,deep_work,now,You're in a good place. This is a great window to focus on something meaningful — protect this time.
+10023,restless,4,0.268,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10024,restless,2,0.244,1,journaling,tonight,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10025,restless,4,0.236,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10026,overwhelmed,1,0.313,1,grounding,within_15_min,"Things feel heavy, but you're here. Try grounding: name 5 things you can see around you. Bring yourself back to this moment."
+10027,mixed,5,0.514,1,pause,tonight,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10028,mixed,3,0.489,0,pause,later_today,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10029,restless,3,0.335,1,movement,later_today,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10030,calm,3,0.206,1,light_planning,tomorrow_morning,You seem settled. Even a quick 10-minute plan for the day can make things feel much more manageable.
+10031,neutral,1,0.261,1,rest,within_15_min,Nothing urgent is pulling at you. This is a good moment to simply rest — guilt-free.
+10032,neutral,3,0.276,1,light_planning,tonight,You feel steady. Use this quiet energy to set a gentle intention for the rest of your day.
+10033,overwhelmed,5,0.385,1,box_breathing,now,"You're carrying a lot right now. Let's pause everything and try some box breathing — four counts in, hold, out, hold. Just that, right now."
+10034,neutral,4,0.264,1,rest,tomorrow_morning,Nothing urgent is pulling at you. This is a good moment to simply rest — guilt-free.
+10035,focused,4,0.329,1,deep_work,now,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10036,restless,5,0.424,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10037,restless,3,0.232,1,journaling,within_15_min,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10038,overwhelmed,1,0.261,1,grounding,tomorrow_morning,"Things feel heavy, but you're here. Try grounding: name 5 things you can see around you. Bring yourself back to this moment."
+10039,mixed,2,0.838,0,rest,tonight,You seem mixed. Consider doing some rest when you feel ready.
+10040,restless,4,0.33,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10041,restless,4,0.239,1,movement,now,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10042,neutral,3,0.259,1,rest,later_today,Nothing urgent is pulling at you. This is a good moment to simply rest — guilt-free.
+10043,restless,1,0.265,1,movement,tomorrow_morning,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10044,focused,5,0.286,1,deep_work,tonight,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10045,restless,5,0.352,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10046,restless,2,0.264,1,movement,tomorrow_morning,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10047,focused,5,0.74,0,deep_work,now,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10048,overwhelmed,4,0.281,1,box_breathing,now,"You're carrying a lot right now. Let's pause everything and try some box breathing — four counts in, hold, out, hold. Just that, right now."
+10049,restless,3,0.351,1,journaling,tomorrow_morning,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10050,restless,4,0.477,0,movement,now,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10051,calm,3,0.445,1,deep_work,later_today,You're in a good place. This is a great window to focus on something meaningful — protect this time.
+10052,focused,3,0.344,1,deep_work,now,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10053,calm,5,0.385,1,light_planning,now,You seem settled. Even a quick 10-minute plan for the day can make things feel much more manageable.
+10054,restless,3,0.286,1,movement,later_today,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10055,mixed,4,0.561,1,pause,tomorrow_morning,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10056,focused,1,0.268,1,deep_work,tomorrow_morning,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10057,overwhelmed,5,0.708,0,box_breathing,now,"You're carrying a lot right now. Let's pause everything and try some box breathing — four counts in, hold, out, hold. Just that, right now."
+10058,overwhelmed,3,0.307,1,grounding,later_today,"Things feel heavy, but you're here. Try grounding: name 5 things you can see around you. Bring yourself back to this moment."
+10059,mixed,5,0.491,1,journaling,tomorrow_morning,It's okay to feel more than one thing at once. Try journaling to untangle what's going on underneath.
+10060,restless,2,0.307,1,journaling,tomorrow_morning,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10061,calm,3,0.275,1,deep_work,tomorrow_morning,You're in a good place. This is a great window to focus on something meaningful — protect this time.
+10062,calm,1,0.337,1,deep_work,later_today,You're in a good place. This is a great window to focus on something meaningful — protect this time.
+10063,restless,2,0.364,1,journaling,later_today,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10064,neutral,2,0.321,1,rest,within_15_min,Nothing urgent is pulling at you. This is a good moment to simply rest — guilt-free.
+10065,neutral,5,0.697,0,light_planning,within_15_min,You feel steady. Use this quiet energy to set a gentle intention for the rest of your day.
+10066,restless,1,0.266,1,journaling,tonight,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10067,restless,5,0.265,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10068,overwhelmed,5,0.365,1,box_breathing,now,"You're carrying a lot right now. Let's pause everything and try some box breathing — four counts in, hold, out, hold. Just that, right now."
+10069,neutral,3,0.667,1,light_planning,tonight,You feel steady. Use this quiet energy to set a gentle intention for the rest of your day.
+10070,restless,1,0.31,1,journaling,tonight,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10071,mixed,5,0.597,0,journaling,within_15_min,It's okay to feel more than one thing at once. Try journaling to untangle what's going on underneath.
+10072,focused,4,0.267,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10073,restless,4,0.358,1,rest,now,You seem restless. Consider doing some rest when you feel ready.
+10074,mixed,3,0.844,1,journaling,later_today,It's okay to feel more than one thing at once. Try journaling to untangle what's going on underneath.
+10075,restless,4,0.266,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10076,mixed,3,0.83,1,journaling,within_15_min,It's okay to feel more than one thing at once. Try journaling to untangle what's going on underneath.
+10077,neutral,2,0.769,0,rest,tonight,Nothing urgent is pulling at you. This is a good moment to simply rest — guilt-free.
+10078,calm,4,0.247,1,deep_work,later_today,You're in a good place. This is a great window to focus on something meaningful — protect this time.
+10079,restless,4,0.558,0,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10080,calm,4,0.435,1,deep_work,tomorrow_morning,You're in a good place. This is a great window to focus on something meaningful — protect this time.
+10081,restless,5,0.435,1,rest,now,You seem restless. Consider doing some rest when you feel ready.
+10082,restless,2,0.258,1,movement,later_today,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10083,restless,4,0.274,1,movement,now,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10084,overwhelmed,3,0.666,1,grounding,later_today,"Things feel heavy, but you're here. Try grounding: name 5 things you can see around you. Bring yourself back to this moment."
+10085,restless,1,0.244,1,journaling,tonight,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10086,restless,4,0.34,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10087,mixed,3,0.804,1,pause,tomorrow_morning,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10088,restless,5,0.26,1,movement,now,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
+10089,calm,3,0.295,1,light_planning,tonight,You seem settled. Even a quick 10-minute plan for the day can make things feel much more manageable.
+10090,mixed,5,0.855,1,pause,tonight,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10091,neutral,3,0.776,0,light_planning,tomorrow_morning,You feel steady. Use this quiet energy to set a gentle intention for the rest of your day.
+10092,neutral,4,0.276,1,rest,later_today,Nothing urgent is pulling at you. This is a good moment to simply rest — guilt-free.
+10093,mixed,3,0.522,0,pause,tonight,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10094,focused,4,0.318,1,rest,now,You seem focused. Consider doing some rest when you feel ready.
+10095,restless,5,0.424,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10096,focused,5,0.284,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10097,mixed,4,0.434,1,pause,tonight,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10098,overwhelmed,4,0.558,0,rest,now,You seem overwhelmed. Consider doing some rest when you feel ready.
+10099,calm,4,0.304,1,light_planning,now,You seem settled. Even a quick 10-minute plan for the day can make things feel much more manageable.
+10100,mixed,5,0.748,0,journaling,within_15_min,It's okay to feel more than one thing at once. Try journaling to untangle what's going on underneath.
+10101,focused,4,0.221,1,deep_work,tonight,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10102,overwhelmed,2,0.355,1,grounding,tonight,"Things feel heavy, but you're here. Try grounding: name 5 things you can see around you. Bring yourself back to this moment."
+10103,calm,5,0.55,0,rest,later_today,You seem calm. Consider doing some rest when you feel ready.
+10104,mixed,5,0.714,1,rest,tonight,You seem mixed. Consider doing some rest when you feel ready.
+10105,focused,5,0.248,1,deep_work,now,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10106,focused,2,0.355,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10107,restless,2,0.284,1,journaling,later_today,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10108,mixed,4,0.462,0,pause,within_15_min,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10109,focused,3,0.236,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10110,focused,5,0.248,1,rest,tomorrow_morning,You seem focused. Consider doing some rest when you feel ready.
+10111,mixed,5,0.557,1,pause,within_15_min,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10112,mixed,3,0.832,0,pause,later_today,Something is sitting with you. You don't have to solve it now — just give yourself permission to pause.
+10113,calm,3,0.425,1,light_planning,now,You seem settled. Even a quick 10-minute plan for the day can make things feel much more manageable.
+10114,restless,4,0.27,1,journaling,now,"You seem scattered. Try writing down everything in your head — no filter, just a brain dump. It helps clear the fog."
+10115,calm,3,0.796,1,deep_work,tonight,You're in a good place. This is a great window to focus on something meaningful — protect this time.
+10116,focused,3,0.395,1,deep_work,tomorrow_morning,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10117,focused,5,0.248,1,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10118,focused,5,0.476,0,deep_work,later_today,Your mind is sharp right now. Dive into your hardest task first — you're primed for it.
+10119,mixed,4,0.576,1,journaling,tomorrow_morning,It's okay to feel more than one thing at once. Try journaling to untangle what's going on underneath.
+10120,restless,3,0.454,1,movement,later_today,Your energy needs somewhere to go. Step outside or shake it out for a few minutes — your mind will follow.
